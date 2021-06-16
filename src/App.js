@@ -25,7 +25,7 @@ function App() {
         setSelecteur1("option1")
         setprixOption1(90700)
       }}
-      >grande autonomie (90 700)</div>
+      >grande autonomie (90 700) TESTTESTTOTO</div>
 
 
       <div className={selecteur1 === "option2" ? 'selecteurYes' : 'selecteurNo'} onClick={() => {
